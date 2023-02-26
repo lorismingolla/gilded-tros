@@ -1,9 +1,9 @@
 ﻿
 namespace GildedTros.App.Items
 {
-    internal class BDawgKeychain : BaseItem
+    internal class LegendaryItem : BaseItem
     {
-        public BDawgKeychain(Item item) : base(item)
+        public LegendaryItem(Item item) : base(item)
         {
         }
 

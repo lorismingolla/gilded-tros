@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "paRw9KUPdC5g4psEzwEUI6LvI3h/Airdb+Ht12cl6t/25IW/zBJS1YWz3mWmPxTZg3j+1/87xghRyyhyH1togA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Loris\\gilded-tros\\GildedTros.App\\GildedTros.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loris\\.nuget\\packages\\approvaltests\\5.4.5\\approvaltests.5.4.5.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\approvalutilities\\5.4.5\\approvalutilities.5.4.5.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\diffengine\\6.4.6\\diffengine.6.4.6.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\emptyfiles\\2.3.1\\emptyfiles.2.3.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\microsoft.codecoverage\\16.9.1\\microsoft.codecoverage.16.9.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\microsoft.net.test.sdk\\16.9.1\\microsoft.net.test.sdk.16.9.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\system.management\\5.0.0\\system.management.5.0.0.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\textcopy\\4.2.0\\textcopy.4.2.0.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit\\2.4.1\\xunit.2.4.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit.analyzers\\0.10.0\\xunit.analyzers.0.10.0.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit.assert\\2.4.1\\xunit.assert.2.4.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
+    "C:\\Users\\Loris\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
