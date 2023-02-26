@@ -22,7 +22,7 @@ namespace GildedTros.App
             ItemTypeDict[WINE_NAME] = new GoodWine(item);
             ItemTypeDict[BACKSTAGE_PASS_REFACTOR_NAME] = new BackstagePass(item);
             ItemTypeDict[BACKSTAGE_PASS_HAXX_NAME] = new BackstagePass(item);
-            ItemTypeDict[BDAWG_NAME] = new BDawgKeychain(item);
+            ItemTypeDict[BDAWG_NAME] = new LegendaryItem(item);
             ItemTypeDict[DUPLICATE_CODE] = new SmellyItem(item);
             ItemTypeDict[LONG_METHODS] = new SmellyItem(item);
             ItemTypeDict[UGLY_VARS] = new SmellyItem(item);
